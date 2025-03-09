@@ -110,3 +110,5 @@ Sentiment analysis is a crucial task in **opinion mining**, where businesses ana
    - Predict sentiment on **new customer reviews** and analyze the results.  
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5bf878bd-905b-40eb-8063-470d2c3b7c47)
